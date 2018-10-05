@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: 雏鹰的博客 | BY Blog
+SEOTitle: King stone的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: kingstone5201@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 雏鹰的博客, eagle, eagle, CLOUD"
+keyword: "BY, BY Blog, King Stone的博客, eagle, eagle, CLOUD"
 url: "http://eagleinsky.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/eagleinsky/eagleinsky.github.io.git" # you code repository
